@@ -1,0 +1,18 @@
+
+Name: 
+Cnic: 
+City: 
+Mobile number: 
+Age: 0
+Date of Entry:
+0:0:0
+Total Bill: Rs 0
+
+Name: 
+Cnic: 
+City: 
+Mobile number: 
+Age: 0
+Date of Entry:
+0:0:0
+Total Bill: Rs 0

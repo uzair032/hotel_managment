@@ -1,0 +1,44 @@
+
+Name: 
+Cnic: 
+City: 
+Mobile number: 
+Age: 0
+Date of Joining:
+0:0:0
+Salary of employee: Rs 0
+Enter the job of employee: 
+Enter the shift of employee: 
+
+Name: 
+Cnic: 
+City: 
+Mobile number: 
+Age: 0
+Date of Joining:
+0:0:0
+Salary of employee: Rs 0
+Enter the job of employee: 
+Enter the shift of employee: 
+
+Name: 
+Cnic: 
+City: 
+Mobile number: 
+Age: 0
+Date of Joining:
+0:0:0
+Salary of employee: Rs 0
+Enter the job of employee: 
+Enter the shift of employee: 
+
+Name: 
+Cnic: 
+City: 
+Mobile number: 
+Age: 0
+Date of Joining:
+0:0:0
+Salary of employee: Rs 0
+Enter the job of employee: 
+Enter the shift of employee: 

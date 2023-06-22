@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1671732010 source:c:\users\hp\onedrive\documents\universitynew\semseter 03\dca\code block\dsa_project_final\src\date.cpp
+	<iostream>
+	"Date.h"
+
+1671731763 c:\users\hp\onedrive\documents\universitynew\semseter 03\dca\code block\dsa_project_final\include\date.h
+	<Person.h>
+
+1671731564 c:\users\hp\onedrive\documents\universitynew\semseter 03\dca\code block\dsa_project_final\include\person.h
+	<string>
+
+1671732056 source:c:\users\hp\onedrive\documents\universitynew\semseter 03\dca\code block\dsa_project_final\src\employee.cpp
+	<iostream>
+	"Employee.h"
+	"Person.h"
+
+1671732384 c:\users\hp\onedrive\documents\universitynew\semseter 03\dca\code block\dsa_project_final\include\employee.h
+	<Person.h>
+
+1671732256 source:c:\users\hp\onedrive\documents\universitynew\semseter 03\dca\code block\dsa_project_final\src\misc.cpp
+	<iostream>
+	"Misc.h"
+
+1671732255 c:\users\hp\onedrive\documents\universitynew\semseter 03\dca\code block\dsa_project_final\include\misc.h
+	<Room.h>
+
+1671732397 c:\users\hp\onedrive\documents\universitynew\semseter 03\dca\code block\dsa_project_final\include\room.h
+	<Person.h>
+
+1671732095 source:c:\users\hp\onedrive\documents\universitynew\semseter 03\dca\code block\dsa_project_final\src\person.cpp
+	<iostream>
+	"Person.h"
+
+1671732177 source:c:\users\hp\onedrive\documents\universitynew\semseter 03\dca\code block\dsa_project_final\src\room.cpp
+	"Room.h"
+	<iostream>
+
+1672344005 source:c:\users\hp\onedrive\documents\universitynew\semseter 03\dca\code block\dsa_project_final\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"Person.h"
+	"Room.h"
+	"Employee.h"
+	"Misc.h"
+	"Date.h"
+	"Functions.h"
+
+1672342277 source:c:\users\hp\onedrive\documents\universitynew\semseter 03\dca\code block\dsa_project_final\src\functions.cpp
+	"Functions.h"
+	"Person.h"
+	"Room.h"
+	"Employee.h"
+	"Misc.h"
+	"Date.h"
+	<iostream>
+	<sstream>
+	<fstream>
+
+1672339869 c:\users\hp\onedrive\documents\universitynew\semseter 03\dca\code block\dsa_project_final\include\functions.h
+	<Person.h>
+	<Room.h>
+	<Employee.h>
+	<Misc.h>
+	<Date.h>
+
